@@ -51,17 +51,17 @@ youtube-clone/
 ```
 
 ## Usage
--Open the project in a browser.
--Explore the navigation bar, sidebar, and video grid.
--Resize your browser window to see the responsive design in action.
+-Open the project in a browser.</br>
+-Explore the navigation bar, sidebar, and video grid.</br>
+-Resize your browser window to see the responsive design in action.</br>
 
 ## Contribution
 Contributions are welcome! Follow these steps:
 
-1.Fork the repository.
-2.Create a new branch: git checkout -b feature-branch-name.
-3.Commit your changes: git commit -m "Description of changes".
-4.Push to the branch: git push origin feature-branch-name.
+1.Fork the repository.</br>
+2.Create a new branch: git checkout -b feature-branch-name.</br>
+3.Commit your changes: git commit -m "Description of changes".</br>
+4.Push to the branch: git push origin feature-branch-name.</br>
 5.Submit a pull request.
 
 ## Contact
